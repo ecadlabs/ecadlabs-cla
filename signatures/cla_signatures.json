@@ -1,3 +1,12 @@
 {
-   "signedContributors": []
+  "signedContributors": [
+    {
+      "name": "GImbrailo",
+      "id": 29157965,
+      "comment_id": 1074536916,
+      "created_at": "2022-03-21T23:57:36Z",
+      "repoId": 369614155,
+      "pullRequestNo": 504
+    }
+  ]
 }
